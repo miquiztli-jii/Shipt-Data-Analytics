@@ -51,7 +51,8 @@ sometimes though, we don't have that option. Imagine that on the operations side
 primarily with shoppers, we decide to revamp the way in which potential orders (from a member) are
 offered to a shopper (they can either ignore the notification, decline it, or accept it). We’ve got 60 days
 of data under the old system and 60 days after the revamp was implemented, we’re hoping to figure out
-whether it led to an increase in offer acceptance rate (proportion of accepts out of all
+whether it led to an increase in offer acceptance rate (proportion of accepts out of all the response
+options). How might you go about trying to quantify the change due to the revamp?
 
 
 
