@@ -30,7 +30,6 @@ What are the Top 4 sources (“source_id” values) in terms of total revenue ge
 
 ## Additional Questions - Pick One
 
-Pick only one of these questions and answer it in less than 400 words.
 A) Within our web and mobile apps, members can generally find items through search and/or the product
 category tree (note that you can also search after clicking into a product category, in which case the
 search is filtered by the chosen category). Let's say that we decide to test a different product category
