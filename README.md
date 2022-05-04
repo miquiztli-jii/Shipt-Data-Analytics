@@ -1,4 +1,4 @@
-# Shipt – Interview Challenge – Data Analyst
+# Shipt – Data Analystics
 
 ## Introduction
 
@@ -13,7 +13,7 @@ There are four data sets provided with these questions. For the most part, the c
      
 For the following, please use either R or Python, and you are free to use any packages you want to help answer these questions.
 
-## Required Questions
+## Questions to Answer
 
 1) Join these two data sets by “date” and “source_id”, returning all rows from both regardless of whether there is a match between the two data sets.
 
