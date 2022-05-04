@@ -1,4 +1,4 @@
-# Shipt – Data Analystics
+# Shipt – Data Analytics
 
 ## Introduction
 
