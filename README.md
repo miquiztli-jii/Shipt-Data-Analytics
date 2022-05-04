@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There are four data sets provided with these questions. For the most part, the column names in each file are self-explanatory, but for “InterviewData_Activity.csv”, here is a quick description of the variables:
+There are four data sets provided with these questions. For the most part, the column names in each file are self-explanatory, but here is a quick description of the variables:
 * userid (our unique identifier of a member in the database)
 * date the member last placed an order
 * age (an integer value)
